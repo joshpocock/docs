@@ -1,29 +1,29 @@
 {
-  "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "$schema": "https://executivestride.com/schema.json",
+  "name": "Stride Support",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#BA9926",
+    "light": "#c29d1d",
+    "dark": "#997c17",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#997c17",
+      "to": "#c29d1d"
     }
   },
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:support@executivestride.com"
     }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://app.stridesalescrm.com"
   },
   "tabs": [
     {
@@ -35,7 +35,7 @@
     {
       "name": "Documentation",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://docs.strideagents.com"
     },
     {
       "name": "Community",
@@ -84,8 +84,8 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "x": "https://x.com/executivestride",
+    "github": "https://github.com/joshpocock",
+    "linkedin": "https://www.linkedin.com/company/executivestride"
   }
 }
